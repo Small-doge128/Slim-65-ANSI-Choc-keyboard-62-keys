@@ -1,7 +1,7 @@
 # Slim-65-ANSI-Choc-keyboard
 A mint sounding keyboard that's small lightweight and thin as a cookie also the hardest was that i used ki cad (for the first time in my life) and building a keyboard also if you forgot (also for the first time) and software. Its gonna be for my acer aspire 5 
 
-dimensions294 mm lenght and 91 mm width
+dimensions: 294 mm lenght and 91 mm width
           
 <img width="1920" height="1080" alt="2026-05-08-174451_hyprshot" src="https://github.com/user-attachments/assets/92fc0b12-1497-4e56-93c1-99aec6a1b320" />
 
