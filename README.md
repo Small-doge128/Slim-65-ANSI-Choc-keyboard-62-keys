@@ -3,6 +3,7 @@ A mint sounding keyboard that's small lightweight and thin as a cookie also the 
 
 picture
 
+it has 49 1U keys, 2 1.5U keys, 2 1.75U keys, 2 2.25 and  1 6.25U key
 I created this becouse i couldn't find this layout without a display and arrow keys 
 
 picture
