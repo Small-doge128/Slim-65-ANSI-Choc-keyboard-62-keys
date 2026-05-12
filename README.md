@@ -36,7 +36,7 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 **what did i chose + bom table**
 
 |what|quantity |from where|price|
-|--------|---------|---------|--------|
+|--------|--------|--------|--------|
 |kailh choc red switches | 70 pcs  | Aliexpres| $26.59|
 |kailh choc keycaps|  70pcs  | Aliexpres| $18.53|
 |kailh choc hot swap sockets| 100pcs  | aliexpres| $8.58|
