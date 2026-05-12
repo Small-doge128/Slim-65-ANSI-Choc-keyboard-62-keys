@@ -3,13 +3,13 @@ A mint sounding keyboard that's small lightweight and thin as a cookie also the 
 
 dimensions: 294 mm lenght and 91 mm width
           
-<img width="1920" height="1080" alt="2026-05-08-174451_hyprshot" src="https://github.com/user-attachments/assets/92fc0b12-1497-4e56-93c1-99aec6a1b320" />
-
 it has 49-1U keys, 2-1.5U keys, 2-1.75U keys, 2-2.25 and  1-6.25U key
+
+I created this becouse i couldn't find this layout without a display and arrow keys 
 
 <img width="1313" height="461" alt="2026-05-09-193907_hyprshot" src="https://github.com/user-attachments/assets/64ebd529-72fc-4f07-8a2e-651ed194af6c" />
 
-I created this becouse i couldn't find this layout without a display and arrow keys 
+<img width="1920" height="1080" alt="2026-05-08-174451_hyprshot" src="https://github.com/user-attachments/assets/92fc0b12-1497-4e56-93c1-99aec6a1b320" />
 
 <img width="1176" height="473" alt="2026-05-09-194605_hyprshot" src="https://github.com/user-attachments/assets/6dcdc9e0-635b-4e7b-8851-394ca39ce224" />
 
