@@ -35,6 +35,15 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 
 **what did i chose + bom table**
 
+|--------------------------------------------|
+|               |quantity |from where|  price|
+|---------------|---------|----------|-------|
+|kailh choc red | 70 pcs  | Aliexpres| $26.59|
+
+
+
+
+
 My build is red kaihl choch switches with random black keycaps 1u and 3d printed and hot swap sockets powered by rp2040-zero and firmware ZMK Firmware
 https://zmk.dev/
 sites:https://www.aliexpress.com/item/1005008879295483.html?spm=a2g0o.productlist.main.36.1930415cx1JcLq&algo_pvid=0f7e6bca-fbb5-4733-bba8-472f779bdda5&pdp_ext_f=%7B%22order%22%3A%2231%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008879295483%7C_p_origin_prod%3A#nav-specification
