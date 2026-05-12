@@ -4,7 +4,7 @@ A mint sounding keyboard that's small lightweight and thin as a cookie also the 
 
 dimensions: 294 mm lenght and 91 mm width
           
-it has 49-1U keys, 2-1.5U keys, 2-1.75U keys, 2-2.25 and  1-6.25U key.It uses kailh choc switches and keycaps and i did add stabilizers in pcb so no extra plate needed.
+it has 49-1U keys, 2-1.5U keys, 2-1.75U keys, 2-2.25 and  1-6.25U key . It uses kailh choc switches and keycaps and i did add stabilizers in pcb so no extra plate needed.
 
 I created this becouse i wanted a keyboard that i would like and enjoy. It's going to be a massive upgrade from my scissor keyboard. I chose slim and 65% keyboard becouse i want it to be compact and light weight. I also like doing projects but this one is something else.
 
