@@ -4,6 +4,11 @@
 A mint sounding keyboard that's small lightweight and thin as a cookie also the hardest was that i used ki cad (for the first time in my life) and building a keyboard also if you forgot (also for the first time) and software. Its gonna be for my acer aspire 5. 
 
 ----------------------------------------------
+**features:**
+
+Hot swap sockets so you can swap switches fast and easy. You can program the keys to what ever you want, the best keys for it are on the right of the board. If you want you can solder a display, lights or whatever you want to the computer but i didn't want that.
+
+----------------------------------------------
 
 **dimensions:**
 
