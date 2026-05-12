@@ -37,8 +37,8 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 
 |               |quantity |from where|  price|
 |---------------|---------|----------|-------|
-|kailh choc red | 70 pcs  | Aliexpres| $26.59|
-|switches       |         |          |       |
+|kailh choc red switches | 70 pcs  | Aliexpres| $26.59|
+||         |          |       |
 
 
 
