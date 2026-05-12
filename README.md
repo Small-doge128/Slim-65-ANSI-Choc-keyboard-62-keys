@@ -38,9 +38,9 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 |               |quantity |from where|  price|
 |---------------|---------|----------|-------|
 |kailh choc red switches | 70 pcs  | Aliexpres| $26.59|
-|kailh choc keycaps|  70pcs  | aliexpres| $18.53|
-|kailh choc hot swap sockets| 100pcs  
-
+|kailh choc keycaps|  70pcs  | Aliexpres| $18.53|
+|kailh choc hot swap sockets| 100pcs  | aliexpres| $8.58|
+|keyboard pcb|5pcs|JLCPCB|$29.00|
 
 
 My build is red kaihl choch switches with random black keycaps 1u and 3d printed and hot swap sockets powered by rp2040-zero and firmware ZMK Firmware
