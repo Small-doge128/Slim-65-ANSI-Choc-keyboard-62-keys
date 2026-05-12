@@ -18,7 +18,7 @@ Hot swap sockets so you can swap switches fast and easy. You can program the key
 
 **keys:**
 
-it has 49-1U keys, 2-1.5U keys, 2-1.75U keys, 2-2.25 and  1-6.25U key total 61 keys. It uses kailh choc switches and keycaps and i did add stabilizers in pcb so no extra plate needed.
+it has 49-1U keys, 7-1.25U keys, 1.5U keys, 2-1.75U keys, 2-2.25 and  1-6.25U key total 62 keys. It uses kailh choc switches and keycaps and i did add stabilizers in pcb so no extra plate needed.
 
 ----------------------------------------------
 
