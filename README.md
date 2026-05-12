@@ -1,19 +1,35 @@
 # Slim-65-ANSI-Choc-keyboard
+**about:**
+
 A mint sounding keyboard that's small lightweight and thin as a cookie also the hardest was that i used ki cad (for the first time in my life) and building a keyboard also if you forgot (also for the first time) and software. Its gonna be for my acer aspire 5. 
 
+----------------------------------------------
 
-dimensions: 294 mm lenght and 91 mm width
-          
-it has 49-1U keys, 2-1.5U keys, 2-1.75U keys, 2-2.25 and  1-6.25U key . It uses kailh choc switches and keycaps and i did add stabilizers in pcb so no extra plate needed.
+**dimensions:**
+294 mm lenght and 91 mm width
 
+----------------------------------------------
+
+**keys:**
+it has 49-1U keys, 2-1.5U keys, 2-1.75U keys, 2-2.25 and  1-6.25U key total 61 keys. It uses kailh choc switches and keycaps and i did add stabilizers in pcb so no extra plate needed.
+
+----------------------------------------------
+
+**why did i create it:**
 I created this becouse i wanted a keyboard that i would like and enjoy. It's going to be a massive upgrade from my scissor keyboard. I chose slim and 65% keyboard becouse i want it to be compact and light weight. I also like doing projects but this one is something else.
 
+----------------------------------------------
+
+**pictures:**
 <img width="1313" height="461" alt="2026-05-09-193907_hyprshot" src="https://github.com/user-attachments/assets/64ebd529-72fc-4f07-8a2e-651ed194af6c" />
 
 <img width="1920" height="1080" alt="2026-05-08-174451_hyprshot" src="https://github.com/user-attachments/assets/92fc0b12-1497-4e56-93c1-99aec6a1b320" />
 
 <img width="1176" height="473" alt="2026-05-09-194605_hyprshot" src="https://github.com/user-attachments/assets/6dcdc9e0-635b-4e7b-8851-394ca39ce224" />
 
+----------------------------------------------
+
+**what did i chose + bom table**
 My build is red kaihl choch switches with random black keycaps 1u and 3d printed and hot swap sockets powered by rp2040-zero and firmware ZMK Firmware
 https://zmk.dev/
 sites:https://www.aliexpress.com/item/1005008879295483.html?spm=a2g0o.productlist.main.36.1930415cx1JcLq&algo_pvid=0f7e6bca-fbb5-4733-bba8-472f779bdda5&pdp_ext_f=%7B%22order%22%3A%2231%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008879295483%7C_p_origin_prod%3A#nav-specification
