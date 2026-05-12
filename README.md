@@ -42,9 +42,9 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 
 |what|quantity |from where|price|
 |--------|--------|--------|--------|
-|kailh choc red switches | 70 pcs  | Aliexpres| $26.59|
-|kailh choc keycaps|  70pcs  | Aliexpres| $18.53|
-|kailh choc hot swap sockets| 100pcs  | Aliexpres| $8.58|
+|kailh choc red switches | 70 pcs  | Aliexpress| $26.59|
+|kailh choc keycaps|  70pcs  | Aliexpress| $18.53|
+|kailh choc hot swap sockets| 100pcs  | Aliexpress| $8.58|
 |keyboard pcb|5pcs|JLCPCB|$29.00|
 |rp2040-zero|1pc|Aliexpress|$1.99|
 ||||total:$84.69|
