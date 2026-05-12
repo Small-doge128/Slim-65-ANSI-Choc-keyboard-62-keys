@@ -1,6 +1,7 @@
 # Slim-65-ANSI-Choc-keyboard
 A mint sounding keyboard that's small lightweight and thin as a cookie also the hardest was that i used ki cad (for the first time in my life) and building a keyboard also if you forgot (also for the first time) and software. Its gonna be for my acer aspire 5 
 
+
 dimensions: 294 mm lenght and 91 mm width
           
 it has 49-1U keys, 2-1.5U keys, 2-1.75U keys, 2-2.25 and  1-6.25U key
