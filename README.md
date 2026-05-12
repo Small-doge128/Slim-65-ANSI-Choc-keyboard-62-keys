@@ -1,12 +1,12 @@
 # Slim-65-ANSI-Choc-keyboard
-A mint sounding keyboard that's small lightweight and thin as a cookie also the hardest was that i used ki cad (for the first time in my life) and building a keyboard also if you forgot (also for the first time) and software. Its gonna be for my acer aspire 5 
+A mint sounding keyboard that's small lightweight and thin as a cookie also the hardest was that i used ki cad (for the first time in my life) and building a keyboard also if you forgot (also for the first time) and software. Its gonna be for my acer aspire 5. 
 
 
 dimensions: 294 mm lenght and 91 mm width
           
-it has 49-1U keys, 2-1.5U keys, 2-1.75U keys, 2-2.25 and  1-6.25U key
+it has 49-1U keys, 2-1.5U keys, 2-1.75U keys, 2-2.25 and  1-6.25U key.It uses kailh choc switches and keycaps and i did add stabilizers in pcb so no extra plate needed.
 
-I created this becouse i couldn't find this layout without a display and arrow keys 
+I created this becouse i wanted a keyboard that i would like and enjoy. It's going to be a massive upgrade from my scissor keyboard. I chose slim and 65% keyboard becouse i want it to be compact and light weight. I also like doing projects but this one is something else.
 
 <img width="1313" height="461" alt="2026-05-09-193907_hyprshot" src="https://github.com/user-attachments/assets/64ebd529-72fc-4f07-8a2e-651ed194af6c" />
 
