@@ -50,8 +50,7 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 ||||total:$84.69|
 
 
-My build is red kaihl choch switches with random black keycaps 1u and 3d printed and hot swap sockets powered by rp2040-zero and firmware ZMK Firmware
-https://zmk.dev/
+My build is red kaihl choch switches with random black keycaps 1u and 3d printed and hot swap sockets powered by rp2040-zero
 sites:https://www.aliexpress.com/item/1005008879295483.html?spm=a2g0o.productlist.main.36.1930415cx1JcLq&algo_pvid=0f7e6bca-fbb5-4733-bba8-472f779bdda5&pdp_ext_f=%7B%22order%22%3A%2231%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008879295483%7C_p_origin_prod%3A#nav-specification
 https://www.aliexpress.com/item/1005008806799106.html?spm=a2g0n.detail.platformRecommendH5.10.6412767fMg6B2b&gps-id=platformRecommendH5&scm=1007.18499.315613.0&scm_id=1007.18499.315613.0&scm-url=1007.18499.315613.0&pvid=df27ad4c-7287-40d3-8087-1907be09b490&_t=gps-id%3AplatformRecommendH5%2Cscm-url%3A1007.18499.315613.0%2Cpvid%3Adf27ad4c-7287-40d3-8087-1907be09b490%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B%22order%22%3A%22339%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%228499%22%2C%22fromPage%22%3A%22recommend%22%7D&utparam-url=scene%3AplatformRecommendH5%7Cquery_from%3A%7Cx_object_id%3A1005008806799106%7C_p_origin_prod%3A
 https://www.aliexpress.com/item/1005010194358457.html?spm=a2g0o.productlist.main.5.67f337627bZcmy&algo_pvid=efc185f5-fb39-4c20-8180-f4403272cee9&pdp_ext_f=%7B%22order%22%3A%2211%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010194358457%7C_p_origin_prod%3A
