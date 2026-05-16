@@ -50,7 +50,7 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 ||||total:$84.69|
 
 
-My build is red kaihl choch switches with random black keycaps 1u and 3d printed and hot swap sockets powered by rp2040-zero with firmware that i forked: github.com/Small-doge128/Small_doge-qmk_firmware
+My build is red kaihl choch switches with random black keycaps 1u and 3d printed and hot swap sockets powered by rp2040-zero with firmware that i forked this is a link to the file not the whole fork: https://github.com/Small-doge128/Small_doge-qmk_firmware/tree/master/keyboards/slim65
 
 -----------------------------------------------
 
