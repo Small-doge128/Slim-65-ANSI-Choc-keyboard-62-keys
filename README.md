@@ -47,9 +47,9 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 
 **what did i chose + bom table**
 
-
+(You can see the link if you click on the blue text)
 | Name | Purpose | Qty | Unit Price (USD) | Total (USD) | Distributor |
-| :--- | :--- | :---: | :---: | :---: | :--- |
+| :--- | :-- | :---: | :---: | :---: | :--- |
 | [Keyboard PCB](https://jlcpcb.com) | Connecting all the components | 5 | $5.80 | $29.00 | JLCPCB |
 | [rp2040-zero](https://www.aliexpress.com/item/1005010194358457.html) | A small brain for the whole system | 1 | $1.99 | $1.99 | Aliexpress |
 | [Kailh Choc Hotswap Sockets](https://www.aliexpress.com/item/1005008879295483.html) | Socket to swap switches so much faster | 100 | $0.09 | $8.58 | Aliexpress |
