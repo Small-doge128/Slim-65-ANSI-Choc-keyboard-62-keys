@@ -52,16 +52,15 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 
 **what did i chose + bom table**
 
-(You can see the link if you click on the blue text)
-| Name | Purpose | Qty | Unit Price (USD) | Total (USD) | Distributor |
-| :--- | :-- | :---: | :---: | :---: | :--- |
-| [Keyboard PCB](https://jlcpcb.com) | Connecting all the components | 5 | $5.80 | $29.00 | JLCPCB |
-| [rp2040-zero](https://www.aliexpress.com/item/1005010194358457.html) | A small brain for the whole system | 1 | $1.99 | $1.99 | Aliexpress |
-| [Kailh Choc Hotswap Sockets](https://www.aliexpress.com/item/1005008879295483.html) | Socket to swap switches so much faster | 100 | $0.09 | $8.58 | Aliexpress |
-| [Kailh Choc Low Profile Keycaps Black](https://www.aliexpress.com/item/1005009278324475.html) | A bigger surface to type on | 70 | $0.26 | $18.53 | Aliexpress |
-| [Kailh Choc Low Profile Switch 1350 Red](https://www.aliexpress.com/item/1005008806799106.html) | Switch for keys | 70 | $0.38 | $26.59 | Aliexpress |
-| **TOTAL** | | | | **$84.69** | |
-| **TOTAL (with tax & shipping)** | | | | **$92.69** | |
+| Name | Purpose | Qty | Unit Price (USD) | Total (USD) | Distributor | Link |
+| :--- | :--- | :---: | :---: | :---: | :--- | :--- |
+| Keyboard PCB | Connecting all the components | 5 | $5.80 | $29.00 | JLCPCB | [Link](https://jlcpcb.com) |
+| rp2040-zero | A small brain for the whole system | 1 | $1.99 | $1.99 | Aliexpress | [Link](https://www.aliexpress.com/item/1005010194358457.html) |
+| Kailh Choc Hotswap Sockets | Socket to swap switches so much faster | 100 | $0.09 | $8.58 | Aliexpress | [Link](https://www.aliexpress.com/item/1005008879295483.html) |
+| Kailh Choc Low Profile Keycaps Black | A bigger surface to type on | 70 | $0.26 | $18.53 | Aliexpress | [Link](https://www.aliexpress.com/item/1005009278324475.html) |
+| Kailh Choc Low Profile Switch 1350 Red | Switch for keys | 70 | $0.38 | $26.59 | Aliexpress | [Link](https://www.aliexpress.com/item/1005008806799106.html) |
+| **TOTAL** | | | | **$84.69** | | |
+| **TOTAL (with tax & shipping)** | | | | **$92.69** | | |
 
 
 My build is red kaihl choch switches with random black keycaps 1u and 3d printed and hot swap sockets powered by rp2040-zero with firmware that i forked this is a link to the file not the whole fork: https://github.com/Small-doge128/Small_doge-qmk_firmware/tree/master/keyboards/slim65
