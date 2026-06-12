@@ -36,6 +36,12 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 
 <img width="1176" height="473" alt="2026-05-09-194605_hyprshot" src="https://github.com/user-attachments/assets/6dcdc9e0-635b-4e7b-8851-394ca39ce224" />
 
+<img width="570" height="299" alt="image" src="https://github.com/user-attachments/assets/e488e920-dc3a-4861-830a-82c1b766f1ef" />
+
+<img width="1096" height="517" alt="2026-06-12-144023_hyprshot" src="https://github.com/user-attachments/assets/3b8816a0-1936-453b-98e9-8d5af3198ad3" />
+
+
+
 ----------------------------------------------
 
 **what did i chose + bom table**
