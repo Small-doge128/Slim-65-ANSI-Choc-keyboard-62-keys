@@ -32,7 +32,7 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 
 <img width="1313" height="461" alt="2026-05-09-193907_hyprshot" src="https://github.com/user-attachments/assets/64ebd529-72fc-4f07-8a2e-651ed194af6c" />
 
-<img width="1920" height="1080" alt="2026-05-08-174451_hyprshot" src="https://github.com/user-attachments/assets/92fc0b12-1497-4e56-93c1-99aec6a1b320" />
+<img width="1920" height="730" alt="image" src="https://github.com/user-attachments/assets/53019847-7784-47a4-ae51-e693813642e0" />
 
 <img width="1176" height="473" alt="2026-05-09-194605_hyprshot" src="https://github.com/user-attachments/assets/6dcdc9e0-635b-4e7b-8851-394ca39ce224" />
 
