@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "mt-choc-symbolss") (type "KiCad") (uri "/home/vitekk/Downloads/mt-choc-main (1)/mt-choc-main/pcb/symbols/mt-choc-symbols.kicad_sym") (options "") (descr ""))
+	(lib (name "RP2040-Zero") (type "KiCad") (uri "/home/vitekk/Downloads/rp2040-zero/RP2040-Zero.kicad_sym") (options "") (descr ""))
+	(lib (name "mt-choc-symbols") (type "KiCad") (uri "/home/vitekk/Downloads/mt-choc-main/pcb/symbols/mt-choc-symbols.kicad_sym") (options "") (descr ""))
+)
