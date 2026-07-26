@@ -6,7 +6,7 @@ A mint sounding keyboard that's small lightweight and thin as a cookie also the 
 ----------------------------------------------
 **features:**
 
-Hot swap sockets so you can swap switches fast and easy. You can program the keys to what ever you want, the best keys for it are on the right of the board. If you want you can solder a display, lights or whatever you want to the computer but i didn't want that. 
+Hot swap sockets so you can swap switches fast and easy. You can program the keys to what ever you want, the best keys for it are on the right of the board. If you want you can solder a display, lights or whatever you want to the computer but i didn't want that. Custom 3d prnted keycaps that i designed myself except the 1u I bought those.
 
 ----------------------------------------------
 
