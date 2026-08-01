@@ -44,5 +44,5 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 # demo video
 
 https://github.com/user-attachments/assets/ab127268-83f5-4e21-8910-376c34ff119f
-
+This was my first demo video, so excuse my english and my stuttering.
 
