@@ -1,17 +1,25 @@
 # about
 
-A mint sounding keyboard that's small lightweight and thin as a cookie also the hardest was that i used ki cad (for the first time in my life) and building a keyboard also if you forgot (also for the first time) and software. Its gonna be for my acer aspire 5. 
+A mint sounding keyboard that's small, lightweight and thin as a cookie, also the hardest was that I used ki cad , building a keyboard and software all of that first in my life. It's going to be for my acer aspire 5. 
 
 # features
 
-Hot swap sockets so you can swap switches fast and easy. You can program the keys to what ever you want, the best keys for it are on the right of the board. If you want you can solder a display, lights or whatever you want to the computer but i didn't want that. Custom 3d prnted keycaps that i designed myself except the 1u I bought those.
+Hot swap sockets so you can swap switches fast and easy. You can program the keys to what ever you want via QMK, if you know what are you doing. Custom 3d prnted keycaps that i designed myself except the 1u I bought those and a 3d printed case that you can use but i didn't.
+
+# step by step tutorial for firmware
+
+1. Download the file called slim65_default.uf2.
+2. Press and hold the boot button, while holding plug a USB-C cable from your computer to the controller.
+3. Now a new folder/device should pop up.
+4. Put the .uf2 file into there and it should remove it self.
+5. If it did now the keyboard should work enjoy.
 
 # dimensions
 PCB - 294 mm lenght and 91 mm width
 
 # keys
 
-it has 49-1U keys, 6-1.25U keys, 2-1.5U keys, 2-1.75U keys, 2-2.25 and  1-6.25U key total 62 keys. It uses kailh choc switches and keycaps, with added help of stabilizer.
+it has 49-1U keys, 6-1.25U keys, 2-1.5U keys, 2-1.75U keys, 2-2.25 and  1-6.25U key total 62 keys.
 
 # why did i create it
 
