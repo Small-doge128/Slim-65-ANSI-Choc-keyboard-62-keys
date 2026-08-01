@@ -29,8 +29,6 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 
 <img width="1313" height="461" alt="2026-05-09-193907_hyprshot" src="https://github.com/user-attachments/assets/64ebd529-72fc-4f07-8a2e-651ed194af6c" />
 
-<img width="1280" height="960" alt="WhatsApp Image 2026-07-12 at 17 16 59" src="https://github.com/user-attachments/assets/b4f2f04c-3e2a-4a11-abd4-dcba505a065a" />
-
 <img width="1128" height="361" alt="image" src="https://github.com/user-attachments/assets/95863f5e-6410-427e-8671-f35993ebdffa" />
 
 <img width="1176" height="473" alt="2026-05-09-194605_hyprshot" src="https://github.com/user-attachments/assets/6dcdc9e0-635b-4e7b-8851-394ca39ce224" />
