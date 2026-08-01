@@ -40,3 +40,9 @@ I created this becouse i wanted a keyboard that i would like and enjoy. It's goi
 <img width="1542" height="689" alt="2026-06-12-214342_hyprshot" src="https://github.com/user-attachments/assets/bb5d3641-e32a-4238-aeab-8778462a2873" />
 
 <img width="1163" height="553" alt="2026-06-12-214249_hyprshot" src="https://github.com/user-attachments/assets/9f15c401-4e70-4372-9bdb-e720c496954c" />
+
+# demo video
+
+https://github.com/user-attachments/assets/ab127268-83f5-4e21-8910-376c34ff119f
+
+
